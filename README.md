@@ -1,6 +1,6 @@
 <h2> 👋 Hi, I'm Sebastian Moreno! 👋 </h2>
 
-- 🌱 I’m currently learning Docker and Aws.
+- 🌱 I’m currently learning Aws.
 
 ```javascript
 const aboutMe = {
@@ -9,16 +9,14 @@ const aboutMe = {
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
-         css: ["Materialize", "Bootstrap", "Material Design"]
+         css: ["Materialize", "Bootstrap", "Material Design", "Tailwind"]
       },
       backEnd: {
-         java: ["Spring"],
          js: ["Node", "Express"],
       },
-      databases: ["MongoDB", "mySQL", "SQLServer", "Firebase"]
+      databases: ["MongoDB", "mySQL", "Firebase"]
    },
-   currentOccupation: ["I'm a student"],
-   challenge: "looking for my first job",
+   currentOccupation: ["FullStack Developer"],
 };
 ```
 

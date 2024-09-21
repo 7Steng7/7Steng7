@@ -4,15 +4,20 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
-   code: [Javascript, Typescript, Java, HTML, CSS],
+   pronouns: "he | him",
+   code: ["Javascript", "Typescript", "Java", "HTML", "CSS"],
    technologies: {
       frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bootstrap", "Material Design", "Tailwind"]
+         js: ["React", "React Native", "Angular"],
+         css: ["Materialize", "Bootstrap", "Material Design", "Tailwind"],
+         apis: ["Google Maps API"]
       },
       backEnd: {
          js: ["Node", "Express"],
+         services: {
+            aws: ["EC2", "Route 53", "Load Balancers", "RDS"],
+            mongo: ["MongoDB Atlas"]
+         }
       },
       databases: ["MongoDB", "mySQL", "Firebase"]
    },

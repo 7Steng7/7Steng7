@@ -1,6 +1,4 @@
-<h2> 👋 Hi, I'm Sebastian Moreno! 👋 </h2>
-
-- 🌱 I’m currently learning Aws.
+👋 ¡Hola! Soy Sebastian Moreno, Entusiasta del Desarrollo FullStack y la Nube
 
 ```javascript
 const aboutMe = {

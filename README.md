@@ -8,7 +8,7 @@ const aboutMe = {
       frontEnd: {
          js: ["React", "React Native", "Angular"],
          css: ["Materialize", "Bootstrap", "Material Design", "Tailwind"],
-         apis: ["REST, Google Maps API"]
+         apis: ["REST", "Google Maps API"]
       },
       backEnd: {
          js: ["Node", "Express"],

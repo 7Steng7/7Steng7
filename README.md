@@ -31,7 +31,7 @@ const aboutMe = {
 ```
 ## 🌟 ¿Qué más puedo aportar?
 - **Experiencia en diseño y documentación de APIs** con **Swagger**.
-- **Conocimiento en NestJS** para construir aplicaciones backend modulares y escalables.
+- **Conocimiento en NestJS y Express** para construir aplicaciones backend modulares y escalables.
 - **Enfoque en buenas prácticas** como **Clean Code**, **SOLID** y patrones de diseño.
 - **Habilidad para trabajar en equipos multidisciplinarios** bajo metodologías ágiles (**Scrum**).
 - **Interés en la optimización y rendimiento** de aplicaciones, tanto en frontend como en backend.

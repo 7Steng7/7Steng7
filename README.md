@@ -1,6 +1,6 @@
-# ¡Hola! 👋 Soy Sebastian Moreno
+#Hi! 👋 I'm Sebastian Moreno
 
-**Desarrollador FullStack y Entusiasta de la Nube** con **3+ años de experiencia** construyendo aplicaciones web y móviles escalables y eficientes. Me apasiona crear soluciones tecnológicas innovadoras y optimizar procesos a través del código.
+**FullStack Developer and Cloud Enthusiast** with **3+ years of experience** building scalable and efficient web and mobile applications. I'm passionate about creating innovative technological solutions and optimizing processes through code.
 
 ## 📝 Sobre Mí
 ```javascript
@@ -25,20 +25,20 @@ const aboutMe = {
       tools: ["Swagger", "Postman", "Git", "Trello"]
    },
    currentOccupation: ["FullStack Developer"],
-   passions: ["Arquitectura de Software", "Desarrollo Ágil", "DevOps", "APIs Eficientes"],
+   passions: ["Software Architecture", "Agile Development", "DevOps", "Efficient APIs"],
    learning: ["Microservicios", "Serverless Architecture"]
 };
 ```
-## 🌟 ¿Qué más puedo aportar?
-- **Experiencia en diseño y documentación de APIs** con **Swagger**.
-- **Conocimiento en NestJS y Express** para construir aplicaciones backend modulares y escalables.
-- **Enfoque en buenas prácticas** como **Clean Code**, **SOLID** y patrones de diseño.
-- **Habilidad para trabajar en equipos multidisciplinarios** bajo metodologías ágiles (**Scrum**).
-- **Interés en la optimización y rendimiento** de aplicaciones, tanto en frontend como en backend.
-- **Pasión por aprender y aplicar nuevas tecnologías** para resolver problemas de manera eficiente.
+## 🌟 What Else Can I Contribute?  
+- **Experience in API design and documentation** with **Swagger**.  
+- **Knowledge in NestJS and Express** for building modular and scalable backend applications.  
+- **Focus on best practices** such as **Clean Code**, **SOLID**, and design patterns.  
+- **Ability to work in multidisciplinary teams** under agile methodologies (**Scrum**).  
+- **Interest in optimization and performance** of applications, both in frontend and backend.  
+- **Passion for learning and applying new technologies** to solve problems efficiently.  
 
-## 📫 ¡Conéctate conmigo!
-- **Portafolio:** [Web](https://steng-s-portfolio.vercel.app)
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sebastian-moreno-rodriguez-b65267183/)
-- **Correo:** stengdeveloper@gmail.com
+## 📫 Connect with Me!  
+- **Portfolio:** [Web](https://steng-s-portfolio.vercel.app)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/sebastian-moreno-rodriguez-b65267183/)  
+- **Email:** stengdeveloper@gmail.com  
 

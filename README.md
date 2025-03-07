@@ -39,6 +39,6 @@ const aboutMe = {
 
 ## 📫 Connect with Me!  
 - **Portfolio:** [Web](https://steng-s-portfolio.vercel.app)  
-- **LinkedIn:** [LinkedIn](www.linkedin.com/in/7steng7/)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/7steng7/)  
 - **Email:** stengdeveloper@gmail.com  
 

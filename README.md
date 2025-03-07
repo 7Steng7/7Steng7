@@ -26,7 +26,7 @@ const aboutMe = {
    },
    currentOccupation: ["FullStack Developer"],
    passions: ["Software Architecture", "Agile Development", "DevOps", "Efficient APIs"],
-   learning: ["Microservicios", "Serverless Architecture"]
+   learning: ["Serverless Architecture"]
 };
 ```
 ## 🌟 What Else Can I Contribute?  
